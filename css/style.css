@@ -8165,7 +8165,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #76777b;
+  color: #101314;
   font-weight: 400; }
 
 .text-primary {
@@ -8192,7 +8192,7 @@ h1, h2, h3, h4, h5,
     margin: 0 auto;
     padding: 0; }
   .ftco-navbar-light .navbar-brand {
-    color: #76777b;
+    color: #101314;
     padding-top: .7rem;
     padding-bottom: .7rem; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
@@ -8278,7 +8278,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
     background: transparent;
     background: none;
-    color: #76777b; }
+    color: #101314; }
     .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active span:before {
       visibility: visible;
       -webkit-transform: scaleX(1);
@@ -8346,7 +8346,7 @@ h1, h2, h3, h4, h5,
         margin-left: 0 !important; } }
     .ftco-navbar-light.scrolled .navbar-toggler {
       border: none;
-      color: #fff !important;
+      color: #101314 !important;
       border-color: rgba(0, 0, 0, 0.5) !important;
       cursor: pointer;
       text-transform: uppercase;
@@ -8355,7 +8355,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-link {
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #d0d0d0 !important; }
+        color: #101314 !important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -8366,7 +8366,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #d0d0d0;
+      color: #101314;
       padding-top: 1rem;
       padding-bottom: 1rem;
       font-size: 24px; }
@@ -8674,12 +8674,12 @@ h1, h2, h3, h4, h5,
     font-size: 14px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    color: #76777b;
+    color: #101314;
 }
 
   .home-banner h1 span {
     font-weight: 800;
-    color: #76777b;
+    color: #101314;
 }
 
 .home-banner h1 {
@@ -8873,14 +8873,15 @@ h1, h2, h3, h4, h5,
   .resume-wrap .date {
     font-weight: 900;
     font-size: 26px;
-    color: #76777b; }
+    color: #101314; }
   .resume-wrap h2 {
     font-size: 26px; }
   .resume-wrap .position {
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 800;
     letter-spacing: 3px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+  color: #101314; }
 
 .resume-wrap:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -9789,7 +9790,7 @@ textarea.form-control {
   height: 100%;
   top: -100%;
   left: 0;
-  background: #d0d0d0 !important;
+  background: #101314 !important;
   z-index: -1;
   transition: all .35s;
 }
